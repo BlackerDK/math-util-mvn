@@ -1,0 +1,32 @@
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse m2e generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# End of https://www.toptal.com/developers/gitignore/api/netbeans,maven
+# Được tạo bởi https://www.toptal.com/developers/gitignore/api/netbeans,maven # Chỉnh sửa tại https://www.toptal.com/developers/gitignore?templates=netbeans,maven ### Maven ## # target/ pom.xml.tag pom.xml.releaseBackup pom.xml.versionsSao lưu pom.xml.next release.properties phụ thuộc-reduced-pom.xml buildNumber.properties .mvn/timing.properties # https://github.com /takari/maven-wrapper#usage-without-binary-jar .mvn/wrapper/maven-wrapper.jar # Các tệp được tạo m2e của Eclipse # Eclipse Core .project # JDT-specific (Công cụ phát triển Java của Eclipse) .classpath ### NetBeans ### **/nbproject/private/ **/nbproject/Makefile-*.mk **/nbproject/Package-*.bash build/nbbuild/dist/nbdist/ .nb-gradle/ # Kết thúc https:// www.toptal.com/developers/gitignore/api/netbeans,maven **/nbproject/Package-*.bash
+1
