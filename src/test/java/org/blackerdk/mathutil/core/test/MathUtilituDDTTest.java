@@ -29,7 +29,7 @@ public class MathUtilituDDTTest {
                               {1,1},
                               {2,2},
                               {4,24},
-                              {5,1200}};
+                              {5,120}};
                               //n expected
                               //c0 ,c1
                               //tách data kiểm thử ra assert(c0-getF,c1-expected)
